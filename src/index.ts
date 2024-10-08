@@ -1,1 +1,1 @@
-import './tipos/variaveis'
+import './tipos/teste'
