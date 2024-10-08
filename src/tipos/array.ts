@@ -1,0 +1,1 @@
+let hobbies = ['Cozinhar', 'Praticar Esportes']
